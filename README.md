@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/Mudit-Sharma-30/Ml-Project-with-ml-flow
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -63,20 +63,20 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow \
-MLFLOW_TRACKING_USERNAME=entbappy \
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
+MLFLOW_TRACKING_URI=https://dagshub.com/Mudit-Sharma-30/Ml-Project-with-ml-flow.mlflow \
+MLFLOW_TRACKING_USERNAME=Mudit-Sharma-30 \
+MLFLOW_TRACKING_PASSWORD=3625d590b439d6f0f1c25b63436532ae1dce8180 \
 python script.py
 
 Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Mudit-Sharma-30/Ml-Project-with-ml-flow.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=Mudit-Sharma-30
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=3625d590b439d6f0f1c25b63436532ae1dce8180
 
 ```
 
