@@ -87,4 +87,8 @@ MLflow
  - Trace all of your expriements
  - Logging & tagging your model
 
+## Deployed Project
 
+``` bash
+http://muditsharma.pythonanywhere.com/
+```
